@@ -38,11 +38,15 @@ Version/build:
 
 ## Diagnostic report
 
-Paste the full output from **COPY REPORT** below.
+Please leave ForeverRoute on the incorrect step, then click **REPORT** or type `/fr report`.
+
+Click **GENERATE REPORT**, then **COPY REPORT**, and paste the full output below.
 
 ```text
 PASTE FOREVERROUTE REPORT HERE
 ```
+
+Optional: if `/fr why` shows useful information that is not already in the report, paste that below too.
 
 ## Reproduction
 
