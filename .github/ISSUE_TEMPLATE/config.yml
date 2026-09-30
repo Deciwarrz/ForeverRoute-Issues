@@ -1,2 +1,5 @@
 blank_issues_enabled: false
-contact_links: []
+contact_links:
+  - name: Download ForeverRoute
+    url: https://www.curseforge.com/wow/addons/foreverroute
+    about: Download the latest public beta from CurseForge
