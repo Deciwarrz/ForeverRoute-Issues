@@ -34,7 +34,9 @@ PASTE LUA ERROR HERE
 
 ## ForeverRoute diagnostic report
 
-If the addon still works well enough to use **COPY REPORT**, paste the full report below.
+If the addon still works well enough, leave it on the affected step and click **REPORT** or type `/fr report`.
+
+Click **GENERATE REPORT**, then **COPY REPORT**, and paste the full report below.
 
 ```text
 PASTE FOREVERROUTE REPORT HERE
