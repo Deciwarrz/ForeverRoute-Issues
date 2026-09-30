@@ -8,14 +8,16 @@ assignees: ""
 
 ## What is wrong?
 
-Describe where ForeverRoute sent you and where you believe it should have sent you.
+Describe where ForeverRoute sent you and where it should have sent you.
+
+Please do not guess exact coordinates. A screenshot or map position is better than an invented value.
 
 ## Expected target
 
 - Quest name:
 - Quest ID (if known):
 - Expected NPC/object:
-- Expected location (if known):
+- Expected location / zone (if known):
 
 ## What ForeverRoute showed
 
@@ -23,7 +25,7 @@ Describe where ForeverRoute sent you and where you believe it should have sent y
 - Step:
 - Target shown:
 - Map / zone:
-- Waypoint or arrow behavior:
+- Waypoint, pin, or arrow behavior:
 
 ## Character
 
@@ -38,15 +40,17 @@ Version/build:
 
 ## Diagnostic report
 
-Paste the full output from **COPY REPORT** below.
+Please leave ForeverRoute on the incorrect step, then click **REPORT** or type `/fr report`.
+
+Click **GENERATE REPORT**, then **COPY REPORT**, and paste the full output below.
 
 ```text
 PASTE FOREVERROUTE REPORT HERE
 ```
 
-## Screenshot
+## Screenshot / correct location
 
-Attach a screenshot if it helps show the wrong waypoint, NPC, map pin, or arrow.
+Attach a screenshot if it helps show the wrong waypoint, NPC, map pin, arrow, or the correct target location.
 
 ## Extra notes
 
